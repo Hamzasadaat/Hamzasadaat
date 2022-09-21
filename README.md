@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Hamzasadaat
-- 👀 I’m interested in Webdevelopment
-- Networks
+Graduate of computer science with experience working across vast fields of computer science. 
+ 
+I’m interested in 
+Webdevelopment,- Networks
 - SQL
 - Social Media Marketing
 - WordPress

@@ -1,4 +1,5 @@
 I am a recent graduate of Computer Science from the University of Haripur. My academic and work experience has taught me to work well with other people and to take responsibility for my own work. Some of the core skills that drive me efficiently are:
+
 • Hard worker and self-starter
 • Computer Networks
 • WordPress Developer

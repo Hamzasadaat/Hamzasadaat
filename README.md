@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Hamzasadaat
-Graduate of computer science with experience working across vast fields of computer science. 
- 
-I’m interested in 
-Webdevelopment,- Networks
+I am a recent graduate of Computer Science from the University of Haripur. My academic and work experience has taught me to work well with other people and to take responsibility for my own work. Some of the core skills that drive me efficiently are:
+• Hard worker and self-starter
+• Computer Networks
+• WordPress Developer
+• Confident
+• Python Beginner
+• IT Support Engineer
+• Microsoft Office Specialist
 - SQL
 - Social Media Marketing
 - WordPress
@@ -12,7 +15,7 @@ Webdevelopment,- Networks
 - Canva
 - Wix
 - SquareSpace
-- 🌱 I’m currently learning Bachelor in computer Science.
+
 - 📫 How to reach me on hamzasadaat123@gmail.com
 
 <!---

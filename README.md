@@ -1,25 +1,7 @@
-I am a recent graduate of Computer Science from the University of Haripur. My academic and work experience has taught me to work well with other people and to take responsibility for my own work. Some of the core skills that drive me efficiently are:
+As an IT Support Specialist, I hold Google IT Support Professional and Microsoft Office Specialist certifications. I am a self-learner and am eager to adopt new skills, making me a valuable asset to any team.
 
-• Hard worker and self-starter
-• Computer Networks
-• WordPress Developer
-• Confident
-• Python Beginner
-• IT Support Engineer
-• Microsoft Office Specialist
-- SQL
-- Social Media Marketing
-- WordPress
-- HTML, CSS,
-- Python
-- Linux
-- Canva
-- Wix
-- SquareSpace
+Throughout my career, I have honed my technical skills and am proficient in various hardware and software technologies. My Google IT Support Professional certification demonstrates my expertise in managing and maintaining computer systems, mobile devices, and printers and troubleshooting hardware and software issues. My Microsoft Office Specialist certification highlights my mastery of Microsoft Office applications, including Word, Excel, and PowerPoint, which are essential tools in many work environments.
 
-- 📫 How to reach me on hamzasadaat123@gmail.com
+I have a strong work ethic and am dedicated to providing excellent customer service. I always look for ways to improve processes and streamline systems, ensuring that clients receive prompt and efficient support. My experience in internationally recognized organizations has given me a broad understanding of the industry and has allowed me to develop excellent communication and interpersonal skills, making me a confident and effective communicator.
 
-<!---
-Hamzasadaat/Hamzasadaat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+In conclusion, I am driven and motivated IT Support Specialist with a passion for technology and a commitment to personal and professional growth. I am eager to bring my skills and experience to a new challenge and am confident I would make a valuable contribution to any organization.
